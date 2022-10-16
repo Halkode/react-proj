@@ -5,6 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontSize: {
+        xl:24,
+        '2xl':32,
+      },
       fontFamily: {
         sans: 'Roboto Mono, sans-serif'
       },
